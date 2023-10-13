@@ -1,0 +1,6 @@
+﻿  StuList.cpp
+C:\Users\kon\source\repos\链表学生健康系统\StuList.h(1,1): warning C4828: 文件包含在偏移 0x277 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test.cpp
+C:\Users\kon\source\repos\链表学生健康系统\StuList.h(1,1): warning C4828: 文件包含在偏移 0x277 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  链表学生健康系统.vcxproj -> C:\Users\kon\source\repos\链表学生健康系统\x64\Debug\链表学生健康系统.exe
